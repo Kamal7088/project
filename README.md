@@ -1,2 +1,2 @@
-# didgital hotel menu system
+# digital hotel menu system
  menu about hotel
