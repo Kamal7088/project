@@ -1,0 +1,57 @@
+
+  /* Menu Container Styling */
+  .menu-container {
+    background-color: #fff;
+    
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  /* Header Styling */
+  .menu-header {
+    text-align: center;
+    font-size: 2.5rem;
+    color: brown;
+    margin-bottom: 20px;
+  }
+  
+  /* Menu Card Styling */
+  .menu-card {
+    padding-top: 10px;
+    color:green;
+    
+  }
+  
+  /* Individual Menu Item Styling */
+  .menu-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 12px 0;
+    border-bottom: 1px solid #ececec;
+  }
+  
+  
+  
+  
+  .item-name {
+    font-size: 2rem;
+    color: #34495e;
+    font-weight: bold;
+
+  }
+  
+  .item-description {
+    font-size: 0.9rem;
+    color: #7f8c8d;
+    margin-top: 5px;
+    background-color:green;
+  }
+  
+  .item-price {
+    font-size: 1.1rem;
+    color: green;
+    font-weight: bold;
+    align-self: center;
+  }
